@@ -518,7 +518,7 @@ a {
 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
      html, body, .section, .section__slide-1, .section__slide-2, .owl-wrapper, .section__slide-3, .main {
       height: auto;
       min-height: 239px;
